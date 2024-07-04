@@ -1,0 +1,8 @@
+input,output
+hello,Hello! How can I help you today?
+hi,Hi! What's on your mind?
+how are you,I'm doing well, thanks for asking!
+what is your name,My name is ChatBot!
+exit,Goodbye! It was nice chatting with you.
+thank you,You're welcome!
+what can you do,I can answer questions and have a conversation with you!
